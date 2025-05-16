@@ -39,4 +39,4 @@ https://github.com/DanahAlmanifi/Self-Checkout-java/blob/main/screenshotsql.png
 
 ## Author
 
-Danah Almanifi
+[Danah Almanifi] (www.linkedin.com/in/danahalmanifi)
