@@ -34,6 +34,7 @@ A Java-based self-checkout system connected to a MySQL database. It allows custo
 
 ## Screenshot
 https://github.com/DanahAlmanifi/Self-Checkout-java/blob/main/screenshotjava.png
+https://github.com/DanahAlmanifi/Self-Checkout-java/blob/main/screenshotsql.png
 
 
 ## Author
