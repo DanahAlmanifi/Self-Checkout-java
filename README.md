@@ -33,6 +33,7 @@ A Java-based self-checkout system connected to a MySQL database. It allows custo
 3. Run the Java files in jGRASP or any IDE
 
 ## Screenshot
+https://github.com/DanahAlmanifi/Self-Checkout-java/blob/main/screenshotjava.png
 
 
 ## Author
