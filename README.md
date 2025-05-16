@@ -1,2 +1,2 @@
-# Self-Checkout-java
-A simple Java console application simulates a self-checkout system. Built using object-oriented programming with custom classes and methods. This was my final project for Java 1.
+# Self-Checkout-System-java
+A Java-based self-checkout system connected to a MySQL database. It allows customers to view products, select quantities, and complete purchases, while automatically updating inventory and sales data in real-time using JDBC.
